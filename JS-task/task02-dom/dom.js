@@ -15,4 +15,6 @@ document.querySelectorAll("nav").forEach((e) => {
   });
 }
 
+changeOuterLinks()
+
 export { changeOuterLinks };
